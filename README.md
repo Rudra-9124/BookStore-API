@@ -3,7 +3,7 @@
 Advanced Bookstore API with User Authentication and ReviewsObjective: Create a RESTful API for managing a bookstore with user authentication and review functionality.
 
 Architecture Design: Use the Model-View-Serializer (MVS) architecture with Django's built-in authentication system.
-##Functionality:
+## Functionality:
 ### Models:
 - Book (title, author, genre, published date, ISBN).
 - UserProfile (user, bio, profile picture).
